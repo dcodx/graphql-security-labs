@@ -24,7 +24,7 @@ Once we get familiar with the issues, we will explain how to avoid it and/or fix
 | ![https://www.devseccon.com/seattle-2019/](https://www.devseccon.com/wp-content/uploads/2017/04/devseccon-logo-1.png) | https://www.devseccon.com/seattle-2019/ |
 |-----------------------------------------------------------------------------------------------------------------------|------------|
 
-#Contact us
+# Contact us
 
 > Interested in learning more?
 >
